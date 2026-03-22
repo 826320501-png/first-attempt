@@ -1,0 +1,6 @@
+streamlit
+requests
+pandas
+sentence-transformers
+torch
+plotly
