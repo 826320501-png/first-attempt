@@ -4,3 +4,4 @@ pandas
 sentence-transformers
 torch
 plotly
+openpyxl
